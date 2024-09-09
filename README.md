@@ -6,7 +6,12 @@ The result is displayed in real time in the second line.
 
 LCD display and I2C module used: [HD44780_1602_Blaues_LCD_Display_mit_Serielle_Schnittstelle_I2C_Bundle_Datenblatt_AZ-Delivery_Vertriebs_GmbH.pdf](https://github.com/user-attachments/files/16920092/HD44780_1602_Blaues_LCD_Display_mit_Serielle_Schnittstelle_I2C_Bundle_Datenblatt_AZ-Delivery_Vertriebs_GmbH.pdf)
 
-Schematic: [lcd_calc_schematic.pdf](https://github.com/user-attachments/files/16920097/lcd_calc_schematic.pdf)
+Schematic: [schematic.pdf](https://github.com/user-attachments/files/16930018/schematic.pdf)
+
+Layout: 
+
+<img width="718" alt="lcd_calc_layout" src="https://github.com/user-attachments/assets/134176e7-8bed-4a77-ab67-3f4416429ea5">
+
 
 
 https://github.com/user-attachments/assets/0b30e313-a5e8-4efc-b783-d98f967034bc
