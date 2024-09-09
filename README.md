@@ -8,10 +8,7 @@ LCD display and I2C module used: [HD44780_1602_Blaues_LCD_Display_mit_Serielle_S
 
 Schematic: [schematic.pdf](https://github.com/user-attachments/files/16930018/schematic.pdf)
 
-Layout: 
-
-<img width="718" alt="lcd_calc_layout" src="https://github.com/user-attachments/assets/134176e7-8bed-4a77-ab67-3f4416429ea5">
-
+Layout: [layout.pdf](https://github.com/user-attachments/files/16930182/layout.pdf)
 
 
 https://github.com/user-attachments/assets/0b30e313-a5e8-4efc-b783-d98f967034bc
